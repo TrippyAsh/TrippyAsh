@@ -2,11 +2,9 @@
 
 **Vibe coder automating business processes. Not tied to one language, I pick whatever gets the job done.**
 
-I find the manual, repetitive parts of how a business runs (spreadsheets, hand-built
-reports, copy-paste between tools) and replace them with automations and apps people
-use every day. I build with AI as my pair programmer, so the language is a choice,
-not a limit. What I care about is the process: clear rules, audit trails, and numbers
-the team can trust.
+I find the manual, repetitive parts of how a business runs (spreadsheets, hand-built reports, copy-paste between tools) and replace them with automations and apps people use every day.
+I use AI as my pair programmer to explore technologies, build applications, automate workflows, and solve practical business problems.
+What I care about most is understanding the process, defining clear rules, maintaining audit trails, and building solutions that produce reliable results teams can trust.
 
 📍 India &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/trippyash) &nbsp;·&nbsp; ✉️ [asheesh25asm@gmail.com](mailto:asheesh25asm@gmail.com)
 
