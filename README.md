@@ -38,7 +38,8 @@ the team can trust.
 | Project | What it shows |
 |---|---|
 | [content-review-tool](https://github.com/TrippyAsh/content-review-tool) | AI screens marketing content against a rulebook; regional reviewers approve or reject. Postgres RLS enforces every access rule, n8n runs the AI step, and code (not the AI) decides the status. |
-| _more coming soon_ | Review monitor · team scorecard · shift roster app |
+| [review-monitor](https://github.com/TrippyAsh/review-monitor) · [live report](https://trippyash.github.io/review-monitor/) | Turns "someone checks app reviews once a week" into a daily process: new App Store reviews are flagged by rules kept in config, sent to Slack with the reason, and published as a report. Runs on GitHub Actions + Pages, no server. |
+| _more coming soon_ | Team scorecard · shift roster app |
 
 ## How I like to build
 
